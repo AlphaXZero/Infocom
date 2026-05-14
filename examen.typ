@@ -141,6 +141,7 @@ Ce travail examinera comment l'information est produite par les différents acte
 
 = Présentation du sujet et du contexte
 == Acteurs impliqués
+#text(red)[vérifier les acteurs ^^]
 === Russie
 
 La Russie occupe une place centrale dans le conflit, non seulement sur le plan militaire, mais également dans la gestion et la diffusion de l’information. Depuis le début de l’invasion en février 2022, les autorités russes ont mis en place une communication fortement contrôlée visant à justifier l’intervention militaire auprès de la population russe et à influencer l’opinion publique internationale. Le gouvernement russe qualifie notamment la guerre “d’opération militaire spéciale”, afin d’éviter l’utilisation du terme “guerre”, considéré comme politiquement sensible à l’intérieur du pays.
@@ -190,11 +191,23 @@ Comme mentionné précedemment, la guerre en Ukraine est un conflit particulièr
 
 
 = Analyse de cinq sources
+== Source 1 : Discourd de V. Poutine sur l'intervention militaire en Ukraine
+=== Présentation
+Le 24 février 2022, le président russe Vladimir Poutine a prononcé un discours @putin2022address dans lequel il annonce le lancement d'une "opération militaire spéciale" en Ukraine. Il accuse les politiciens occidentaux et notamment l'OTAN de s'étendre dangereusement à l'est et de menacer la sécurité de la Russie en mettant en place de plus en plus d'infrastructures militaires à proximité des frontières russes.
+
+Dans son allocution, Poutine affirme que les États-Unis et leurs alliés ignorent depuis plusieurs années les demandes de sécurité formulées par la Russie. Il présente l’Ukraine comme un État influencé par l’Occident et considère que le gouvernement ukrainien représente une menace pour la Russie et les populations russophones du Donbass.
+
+Le président russe justifie également l’intervention militaire par la volonté de protéger les habitants des républiques séparatistes de Donetsk et de Louhansk, qu’il affirme victimes de violences depuis 2014. Il annonce que les objectifs de l’opération sont de "démilitariser" et de "dénazifier" l’Ukraine, tout en assurant que la Russie ne cherche pas à occuper le territoire ukrainien.
+
+Enfin, Poutine adresse un avertissement aux pays étrangers en déclarant que toute tentative d’intervention contre la Russie entraînera une réponse immédiate et des conséquences importantes.
 
 
-= Analyse de la communication
+== Analyse de la communication
+On constate clairement que le président russe cherche à polariser les camps, en présentant la Russie comme une entité cherchant le dialogue et qui serait victime d'une menace occidentale. Alors que l'occident serait
 
-
+#text(
+  red,
+)[parle que ukraine essaie de tuer russophones dans le dombask et luthesque alors que plusieurs sources signalent que c'est faux ?? et que russie envoie armée sans bannière pour faire croire à des séparatistes]
 = Enjeux et risques
 
 
