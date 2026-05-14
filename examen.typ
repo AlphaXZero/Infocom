@@ -142,53 +142,16 @@ Ce travail examinera comment l'information est produite par les différents acte
 
 = Présentation du sujet et du contexte
 == Acteurs impliqués
-#text(red)[vérifier les acteurs ^^]
-=== Russie
-
-La Russie occupe une place centrale dans le conflit, non seulement sur le plan militaire, mais également dans la gestion et la diffusion de l’information. Depuis le début de l’invasion en février 2022, les autorités russes ont mis en place une communication fortement contrôlée visant à justifier l’intervention militaire auprès de la population russe et à influencer l’opinion publique internationale. Le gouvernement russe qualifie notamment la guerre “d’opération militaire spéciale”, afin d’éviter l’utilisation du terme “guerre”, considéré comme politiquement sensible à l’intérieur du pays.
-
-Les médias d’État russes, tels que RT et Sputnik, participent activement à cette stratégie de communication. Ils diffusent des contenus favorables au Kremlin et mettent en avant un discours dénonçant l’OTAN et les pays occidentaux. En parallèle, plusieurs lois ont été adoptées afin de limiter les critiques contre l’armée russe et de contrôler les informations diffusées sur le conflit. Les réseaux sociaux jouent également un rôle important dans cette stratégie, notamment Telegram, largement utilisé pour diffuser des messages officiels, des vidéos militaires et des contenus de propagande.
-
-=== Ukraine
-
-Face à la puissance militaire russe, l’Ukraine a rapidement développé une stratégie de communication moderne et particulièrement efficace. Le président Volodymyr Zelensky utilise régulièrement les réseaux sociaux pour communiquer directement avec la population ukrainienne et avec les pays étrangers. À travers des vidéos publiées quotidiennement, il cherche à maintenir le moral de la population, dénoncer les attaques russes et obtenir un soutien militaire et humanitaire international.
-
-L’Ukraine utilise également internet comme un outil de mobilisation mondiale. Les autorités ukrainiennes diffusent de nombreuses images et vidéos montrant les destructions causées par les combats et les conséquences humanitaires de la guerre. Cette communication vise à sensibiliser l’opinion publique internationale et à renforcer le soutien des pays occidentaux. Les réseaux sociaux comme X, Telegram, TikTok ou YouTube sont devenus des outils essentiels dans cette stratégie numérique.
-
-=== Les médias traditionnels
-
-Les médias traditionnels jouent un rôle essentiel dans la diffusion des informations liées au conflit. Les chaînes de télévision, les journaux et les agences de presse permettent au public d’obtenir des informations sur l’évolution de la guerre, les décisions politiques ou encore les conséquences humanitaires du conflit. Des médias internationaux comme BBC, CNN, France 24 ou Al Jazeera disposent notamment de correspondants présents sur le terrain.
-
-Cependant, le travail journalistique dans une zone de guerre reste particulièrement difficile. Les journalistes doivent vérifier les informations provenant de multiples sources tout en faisant face aux risques liés aux combats et à la désinformation. Certaines images ou vidéos circulant sur internet peuvent être sorties de leur contexte, modifiées ou totalement fausses. Les médias doivent donc effectuer un important travail de vérification avant publication afin d’éviter la diffusion d’informations erronées.
-
-=== Les réseaux sociaux et plateformes numériques
-
-Les réseaux sociaux occupent une place centrale dans le conflit russo-ukrainien. Contrairement aux guerres précédentes, les informations circulent aujourd’hui presque instantanément grâce aux smartphones et aux plateformes numériques. Des applications comme Telegram, X, TikTok, Facebook ou YouTube permettent la diffusion rapide de vidéos, de photos et de témoignages provenant directement du terrain.
-
-Cette rapidité de diffusion présente des avantages, mais également de nombreux risques. Les réseaux sociaux facilitent la propagation de désinformation, de propagande et de manipulations visuelles. Certaines vidéos peuvent être sorties de leur contexte ou provenir d’anciens conflits tout en étant présentées comme récentes. Les algorithmes des plateformes favorisent également les contenus les plus émotionnels ou choquants, ce qui peut influencer fortement l’opinion publique.
-
-En parallèle, ces plateformes permettent aussi l’émergence de communautés spécialisées dans la vérification des informations, notamment dans le domaine de l’OSINT (Open Source Intelligence), qui consiste à analyser des données publiques afin de confirmer ou d’infirmer certaines informations liées au conflit.
-
-=== Les populations civiles
-
-Les populations civiles jouent également un rôle important dans la production et la diffusion de l’information. Grâce aux smartphones et aux réseaux sociaux, de nombreux habitants documentent directement les événements auxquels ils assistent. Ils publient des photos, vidéos et témoignages montrant les bombardements, les déplacements de population ou les destructions provoquées par la guerre.
-
-Ces contenus permettent parfois d’obtenir des informations rapidement, avant même l’arrivée des journalistes sur place. Cependant, ils posent également des problèmes de fiabilité et de vérification. Certaines vidéos peuvent être incomplètes, manipulées ou interprétées de manière incorrecte. Malgré cela, les civils participent aujourd’hui activement à la documentation du conflit et influencent la perception internationale de la guerre.
-
-=== Les organisations internationales
-
-Les organisations internationales interviennent également dans le conflit à travers leur communication officielle et leurs actions diplomatiques. L’Organisation des Nations unies (ONU), l’Organisation du traité de l’Atlantique nord (OTAN) ainsi que l’Union européenne prennent régulièrement position sur les événements et diffusent des communiqués concernant la situation militaire, humanitaire et politique.
-
-Ces organisations jouent un rôle important dans la diffusion d’informations officielles et dans la coordination de l’aide humanitaire destinée aux populations touchées par le conflit. Elles participent également aux discussions diplomatiques et aux tentatives de résolution du conflit. Leur communication vise généralement à informer le public international, condamner certaines actions militaires et soutenir les populations civiles affectées par la guerre.
 
 == Contexte historique
-Le conflit trouve son origine en septembre 2013, lorsque le président ukrainien Ianoukovitch décide de se retirer unilatéralement d'un accord d'association avec l'Union européenne. En réaction, des manifestations s'organisent sur la place Maïdan à Kiev. La répression policière est féroce, l'escalade de la violence fait plusieurs morts, et Ianoukovitch finit par fuir le pays. La Russie réagit immédiatement : elle annexe illégalement la Crimée et déclenche un conflit dans l'est ukrainien en soutenant des séparatistes prorusses dans le Donbass. Des accords de cessez-le-feu sont négociés à Minsk en 2014 et 2015, mais les violations sont constantes, et les ministres du G7 appellent encore en février 2022 la Russie à respecter ses engagements et à procéder à une désescalade
+Le conflit trouve son origine en septembre 2013, lorsque le président ukrainien Viktor Ianoukovitch décide de suspendre la signature d’un accord d’association avec l’Union européenne. En réaction, des manifestations pro-européennes s’organisent sur la place Maïdan à Kiev. La répression policière entraîne une escalade de la violence qui fait plusieurs morts, avant que Ianoukovitch ne fuie le pays en février 2014.
 
-Ces appels restent sans effet. Fin 2021, la Russie massifie ses troupes à la frontière ukrainienne, impliquant plus de 150 000 soldats. Le 21 février 2022, Poutine reconnaît unilatéralement l'indépendance des républiques séparatistes de Donetsk et Louhansk et envoie des soldats dans la région. Trois jours plus tard, le 24 février, il lance une invasion militaire massive sur l'ensemble du territoire ukrainien. Ce basculement fait passer un conflit régional gelé depuis huit ans dans une toute autre dimension, aux conséquences militaires, énergétiques, humanitaires et économiques qui dépassent largement les deux belligérants.
+La Russie réagit rapidement en annexant la Crimée, une décision largement condamnée par la communauté internationale. Dans le même temps, un conflit armé éclate dans l’est de l’Ukraine, dans la région du Donbass, où des groupes séparatistes prorusses reçoivent un soutien russe selon plusieurs sources occidentales et enquêtes internationales. Des accords de cessez-le-feu sont négociés à Minsk en 2014 et 2015, mais les violations restent fréquentes et les tensions persistent durant les années suivantes.
 
+Fin 2021, la Russie concentre plus de 150 000 soldats à la frontière ukrainienne. Le 21 février 2022, Vladimir Poutine reconnaît unilatéralement l’indépendance des républiques séparatistes de Donetsk et de Louhansk et ordonne l’envoi de troupes dans la région. Trois jours plus tard, le 24 février 2022, la Russie lance une invasion militaire à grande échelle de l’Ukraine. Ce basculement transforme un conflit régional gelé depuis plusieurs années en une guerre aux conséquences militaires, humanitaires, énergétiques et économiques mondiales.
+
+Ce résumé du contexte historique permet de mieux comprendre les origines du conflit. Il s’appuie cependant principalement sur des sources occidentales @beauchemin_pumont_2022 et @huri_russo_ukrainian_war_background et ne reflète donc pas nécessairement la narration russe des événements. Il est important de garder à l’esprit que les différentes parties impliquées dans le conflit défendent des récits divergents, dont l’analyse est essentielle pour comprendre les enjeux de la guerre de l’information qui accompagne le conflit militaire.
 == Supports utilisés
-Comme mentionné précedemment, la guerre en Ukraine est un conflit particulièrement documenté, avec une grande quantité d'informations produites et diffusées par les différents acteurs du conflit. Les médias traditionnels, tels que les chaînes de télévision et les journaux, jouent un rôle important dans la diffusion de l'information, mais les réseaux sociaux sont également devenus des plateformes clés pour la diffusion d'images, de vidéos et de témoignages du front. Les combattants et les civils utilisent ces plateformes pour partager leur expérience du conflit.#text(red)[à modifier ? pour dire les supports qu'on utilise]
-
 
 = Analyse de cinq sources
 == Source 1 : Discours de V. Poutine sur l'intervention militaire en Ukraine
@@ -207,13 +170,15 @@ Enfin, Poutine adresse un avertissement aux pays étrangers en affirmant que tou
 
 On constate clairement que le président russe cherche à polariser les camps en présentant la Russie comme une nation ouverte au dialogue mais victime d’une menace occidentale. Il affirme par exemple que « nous avons patiemment essayé de conclure une entente avec les dirigeants de l’OTAN ». À l’inverse, les dirigeants occidentaux sont présentés comme « irresponsables », leurs réponses étant décrites comme des « mensonges », du « cynisme » ou encore des « tentatives de pressions ou de chantage ». Cette opposition permet de construire un récit opposant une Russie défensive à un Occident agressif.
 
-Poutine cherche également à renforcer le patriotisme russe en mobilisant la mémoire historique du pays. Il évoque notamment la Seconde Guerre mondiale lorsqu’il déclare : « Notre pays n'était pas préparé à contrer l'invasion de l'Allemagne nazie, qui a attaqué notre mère patrie le 22 juin 1941, sans déclarer la guerre. Le pays a arrêté l'ennemi et a été jusqu'à le défaire mais à un coût énorme ». Cette référence historique permet d’associer implicitement les adversaires actuels à une menace comparable au nazisme et contribue à justifier moralement l’intervention militaire. L’utilisation du terme « dénazification » participe également à cette stratégie de communication.
+Poutine cherche également à renforcer le patriotisme russe en mobilisant la mémoire historique du pays. Il évoque notamment la Seconde Guerre mondiale lorsqu’il déclare : « Notre pays n'était pas préparé à contrer l'invasion de l'Allemagne nazie, qui a attaqué notre mère patrie le 22 juin 1941, sans déclarer la guerre. Le pays a arrêté l'ennemi et a été jusqu'à le défaire mais à un coût énorme ». Cette référence historique permet d’associer implicitement les adversaires actuels à une menace comparable au nazisme et contribue à justifier moralement l’intervention militaire. L’utilisation du terme « dénazification » participe également à cette stratégie de communication et contribue à déshumaniser le camp opposé.
 
 Dans la continuité de ses critiques envers l’Occident, Poutine évoque également les guerres menées en Libye, en Syrie et en Irak. Selon lui, ces interventions, qu’il qualifie d’« utilisation illégale de forces armées », n’auraient conduit qu’à des « tragédies » et à « un grand exode du Moyen-Orient et d’Afrique vers l’Europe ». Cette comparaison permet de présenter la Russie comme plus légitime moralement que les puissances occidentales et de renforcer l’idée d’une menace pesant sur sa sécurité. Le discours repose ainsi sur une logique de guerre préventive : la Russie serait contrainte d’agir avant de subir elle-même une attaque ou une déstabilisation.
 
-On constate également ce que plusieurs observateurs qualifient d’inversion du récit ou d’omission d’une partie des événements afin d’adapter la narration du conflit. Poutine affirme par exemple que « nous avons tout fait pour régler la situation avec des moyens diplomatiques pacifiques ». Pourtant, plusieurs sources occidentales et enquêtes indépendantes évoquent l’implication de forces russes non identifiées dans le conflit du Donbass depuis 2014 afin de renforcer les séparatistes. Présentée sous cet angle, cette narration permet de justifier l’intervention militaire comme une opération de protection des populations locales : « Nous devions arrêter cette atrocité, ce génocide visant les millions de personnes qui vivent là-bas et qui avaient placé leurs espoirs en la Russie, en nous tous. »
+On constate également ce que plusieurs observateurs qualifient d’inversion du récit ou d’omission d’une partie des événements afin d’adapter la narration du conflit. Poutine affirme par exemple que « nous avons tout fait pour régler la situation avec des moyens diplomatiques pacifiques ». Pourtant, plusieurs sources occidentales et enquêtes indépendantes @Katchanovski2026 évoquent l’implication de forces russes non identifiées dans le conflit du Donbass depuis 2014 afin de renforcer les séparatistes. Présentée sous cet angle, cette narration permet de justifier l’intervention militaire comme une opération de protection des populations locales : « Nous devions arrêter cette atrocité, ce génocide visant les millions de personnes qui vivent là-bas et qui avaient placé leurs espoirs en la Russie, en nous tous. »
 
-Enfin, Poutine invoque l’article 51 de la Charte des Nations Unies, qui reconnaît le droit à la légitime défense, afin de renforcer la légitimité de l’intervention militaire. Cette référence au droit international vise à donner une justification juridique à l’opération et à présenter l’action russe comme une réponse nécessaire à une menace extérieure.
+Enfin, Poutine invoque l’article 51 de la Charte des Nations Unies @un_charter_1945, qui reconnaît le droit à la légitime défense, afin de renforcer la légitimité de l’intervention militaire. Cette référence au droit international vise à donner une justification juridique à l’opération et à présenter l’action russe comme une réponse nécessaire à une menace extérieure.
+
+Dans l’ensemble, ce discours illustre une stratégie de communication mêlant victimisation, appel à l’histoire, justification morale et légitimation juridique afin de présenter l’intervention militaire comme nécessaire et défensive aux yeux de la population russe et de la communauté internationale.
 
 = Enjeux et risques
 
@@ -227,16 +192,16 @@ Enfin, Poutine invoque l’article 51 de la Charte des Nations Unies, qui reconn
   radius: 4pt,
 )[
   #set par(justify: false)
+
   *Contribution personnelle et répartition des tâches* \
   \
-  *Coisne Valentin :*  \
+  *Coisne Valentin :* Co-rédaction de l’analyse du discours russe, rédaction des analyses des discours d’Emmanuel Macron et de Joe Biden, réalisation du support PowerPoint. \
   \
-  *Van der Veen Georgé :* \
+  *Van der Veen Georgé :* Mise en page du document sous Typst, rédaction des introductions ainsi que des analyses du discours russe, du discours ukrainien et des réactions des civils et des forces armées. \
   \
-  *Utilisation de l'intelligence artificielle* \
-  Claude — [Usage : Propositions de reformulations, amélioration du fichier Typst pour répondre aux exigences du document] \
-  ChatGPT — [Usage : Recherche de sources]
-
+  *Utilisation de l’intelligence artificielle* \
+  Claude — [Usage : propositions de reformulations et amélioration du fichier Typst afin de répondre aux exigences du document.] \
+  ChatGPT — [Usage : aide à la recherche de sources, reformulations et corrections rédactionnelles.]
 ]
 
 #pagebreak()
