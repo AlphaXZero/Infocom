@@ -1,6 +1,6 @@
 // ─── Paramètres globaux ───────────────────────────────────────────────────────
 #set text(
-  font: "Linux Libertine",
+  font: "Libertinus Serif",
   size: 12pt,
   lang: "fr",
 )
