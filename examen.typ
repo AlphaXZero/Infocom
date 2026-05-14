@@ -135,7 +135,8 @@
 
 En février 2022, l'Europe a connu une escalade des tensions entre la Russie et l'Ukraine, aboutissant à l'invasion du territoire ukrainien par les forces russes. Bien que la propagande et la désinformation aient toujours occupé une place centrale dans les conflits armés, rarement une guerre d'une telle ampleur n'aura été aussi documentée en temps réel par ses propres acteurs. À travers les réseaux sociaux et les outils numériques, combattants et civils diffusent continuellement images, vidéos et témoignages du front. Cette surabondance d'informations complexifie le travail de vérification des sources, mais offre également de nouvelles possibilités d'analyse pour comprendre les enjeux du conflit et les stratégies de communication des différents acteurs impliqués.
 
-Ce travail examinera comment l'information est produite par les différents acteurs du conflit, comment elle est transformée et diffusée à travers les médias traditionnels et les réseaux sociaux, et comment elle est instrumentalisée à des fins de propagande et de manipulation de l'opinion publique.#text(red)[modifier en fonction du développement]
+Ce travail examinera comment l'information est produite par les différents acteurs du conflit, comment elle est transformée et diffusée à travers les médias traditionnels et les réseaux sociaux, et comment elle est instrumentalisée à des fins de propagande et de manipulation de l'opinion publique.#text(red)[modifier en fonction du développement, pouruqoi ça nous semble important , bcp de sources donc toruver les vrais]
+
 
 #pagebreak()
 
@@ -200,7 +201,7 @@ Dans son allocution, Poutine affirme que les États-Unis et leurs alliés ignore
 Le président russe justifie également l’intervention militaire par la volonté de protéger les habitants des républiques séparatistes de Donetsk et de Louhansk, qu’il affirme victimes de violences depuis 2014. Il annonce que les objectifs de l’opération sont de "démilitariser" et de "dénazifier" l’Ukraine, tout en assurant que la Russie ne cherche pas à occuper le territoire ukrainien.
 
 Enfin, Poutine adresse un avertissement aux pays étrangers en déclarant que toute tentative d’intervention contre la Russie entraînera une réponse immédiate et des conséquences importantes.
-
+#text(red)[refaire pour resumer points imortans peut etre citer]
 
 == Analyse de la communication
 On constate clairement que le président russe cherche à polariser les camps, en présentant la Russie comme une entité cherchant le dialogue et qui serait victime d'une menace occidentale. Alors que l'occident serait
