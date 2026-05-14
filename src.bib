@@ -1,0 +1,170 @@
+// ─── Paramètres globaux ───────────────────────────────────────────────────────
+#set text(
+  font: "Linux Libertine",
+  size: 12pt,
+  lang: "fr",
+)
+
+#set par(
+  justify: true,
+  leading: 1em, // Interligne 1.5 (académique standard)
+  spacing: 1.5em, // Espace entre les paragraphes
+  first-line-indent: 1.2em, // Alinéa de première ligne
+)
+
+#set page(
+  paper: "a4",
+  margin: (top: 2.5cm, bottom: 2.5cm, left: 3cm, right: 2.5cm),
+)
+
+// ─── Style des citations (APA) ────────────────────────────────────────────────
+#show cite: it => text(fill: rgb("#2c5f8a"), size: 10pt, weight: "regular")[#it]
+
+// ─── Style des titres ─────────────────────────────────────────────────────────
+#set heading(numbering: "I.1.")
+
+#show heading.where(level: 1): it => {
+  v(1.5em)
+  text(size: 13pt, weight: "bold")[#counter(heading).display("I.") #it.body]
+  v(0.5em)
+}
+
+#show heading.where(level: 2): it => {
+  v(1em)
+  text(size: 12pt, weight: "bold", style: "italic")[#counter(heading).display("I.1.") #it.body]
+  v(0.3em)
+}
+
+// ─── Page de titre ────────────────────────────────────────────────────────────
+#page(margin: (top: 3cm, bottom: 3cm, left: 3cm, right: 2.5cm))[
+  #align(center)[
+    #text(size: 11pt, style: "italic")[Exercice de communication]
+    #v(1em)
+    #line(length: 60%, stroke: 0.5pt)
+    #v(3em)
+
+    #text(size: 22pt, weight: "bold")[
+      Mise en page et structure d'un texte
+    ]
+    #v(0.8em)
+    #text(size: 14pt, style: "italic", fill: rgb("#444444"))[
+      Analyse de l'enseigne Delhaize
+    ]
+
+    #v(3em)
+    #line(length: 60%, stroke: 0.5pt)
+    #v(4em)
+
+    // #figure(
+    //   image("delhaize.png", width: 45%),
+    //   caption: [Logo Delhaize @delhaize_logo],
+    //   numbering: none,
+    // )
+
+    #v(4em)
+
+    #grid(
+      columns: (1fr, 1fr),
+      gutter: 1em,
+      align(left)[
+        #text(weight: "bold")[Auteur] \
+        Van der Veen Georgé
+      ],
+      align(left)[
+        #text(weight: "bold")[Date] \
+        Mars 2026
+      ],
+    )
+  ]
+]
+
+// ─── Table des matières ───────────────────────────────────────────────────────
+#set page(
+  numbering: "i",
+  number-align: center,
+  header: [],
+)
+#counter(page).update(1)
+
+#outline(
+  title: [Table des matières],
+  indent: auto,
+  depth: 2,
+)
+#pagebreak()
+
+// ─── Corps du document ────────────────────────────────────────────────────────
+#set page(
+  numbering: "-1-",
+  number-align: center,
+  header: context {
+    set text(size: 10pt, style: "italic")
+    grid(
+      columns: (1fr, 1fr),
+      align(left)[Van der Veen Georgé], align(right)[Mise en page et structure d'un texte],
+    )
+    line(length: 100%, stroke: 0.4pt)
+  },
+)
+#counter(page).update(1)
+
+= Introdcuiton
+Au travers de ce
+
+-drones ?
+
+= Début de la guerre
+== Contexte immédiat
+
+- désinformation
+Dans la nuit du 23 au 24 février 2022, Vladimir Poutine annonce à la télévision le lancement d’une « opération militaire spéciale » contre l’Ukraine. Quelques minutes plus tard, plusieurs explosions sont signalées dans différentes villes ukrainiennes, notamment Kyiv, Kharkiv et Odessa.
+
+Très rapidement, la guerre devient également un affrontement médiatique et informationnel. Chaque acteur tente d’imposer sa propre version des événements dès les premières heures du conflit.
+
+Cette phase initiale est particulièrement intéressante car elle montre comment :
+
+les gouvernements utilisent le vocabulaire pour influencer la perception du conflit ;
+les réseaux sociaux accélèrent la diffusion des images ;
+les journalistes doivent vérifier des informations publiées en temps réel ;
+les institutions internationales construisent rapidement une position officielle.
+
+Le début de la guerre constitue donc un exemple concret de communication de crise à l’échelle internationale.
+
+=== communication russe
+Le 24 février 2022, Vladimir Poutine publie une allocution officielle annonçant le début de l’intervention militaire.
+
+Dans ce discours, plusieurs éléments de communication sont immédiatement visibles.
+
+Premièrement, le terme « guerre » n’est jamais utilisé. À la place, le Kremlin parle d’« opération militaire spéciale ». Ce choix de vocabulaire est essentiel car il permet de présenter l’intervention comme limitée, contrôlée et justifiée.
+
+Poutine affirme également que l’objectif est de :
+
+protéger les populations du Donbass ;
+défendre la Russie contre une menace venant de l’OTAN ;
+« démilitariser » l’Ukraine ;
+« dénazifier » l’Ukraine.
+
+Cette communication cherche à donner une légitimité politique et morale à l’intervention militaire.
+
+Le but en refusant d'utiliser le mot guerre est aussi d'éviter l'intervention d'autres pays qui auraient des amitiés avec l'ukraine. En transformant la guerre contre un pays en opération contre des gens
+
+*rechercher articles russes*
+
+== communication ukrainienne
+Dès les premières heures de l’invasion russe, l’Ukraine met en place une communication très différente de celle du Kremlin, centrée sur la résistance, l’émotion et la mobilisation internationale.
+
+Le président Volodymyr Zelensky utilise massivement les réseaux sociaux pour communiquer directement avec la population ukrainienne et les médias étrangers.
+Contrairement à Vladimir Poutine, qui apparaît dans un cadre très officiel et institutionnel, Zelensky se montre régulièrement dans les rues de Kyiv, parfois entouré de membres de son gouvernement ou de soldats ukrainiens. Cette mise en scène vise à montrer que les autorités ukrainiennes sont toujours présentes sur le terrain et que le pays continue de résister malgré l’invasion.
+
+L’Ukraine utilise également un vocabulaire très fort, parlant immédiatement de « guerre », « d’invasion » et « d’agression russe », afin de présenter la Russie comme l’État agresseur et l’Ukraine comme une victime défendant sa souveraineté. La communication ukrainienne repose fortement sur les images et les émotions : vidéos de bombardements, destructions d’immeubles, civils réfugiés dans le métro ou soldats défendant les villes. Ces contenus sont largement diffusés sur X/Twitter, Telegram, Instagram et TikTok afin de sensibiliser l’opinion publique internationale et de susciter une réaction rapide des gouvernements occidentaux. L’Ukraine cherche également à obtenir des sanctions contre la Russie, des aides financières et des livraisons d’armes. Cette stratégie de communication se révèle particulièrement efficace, car elle permet à l’Ukraine d’obtenir un important soutien médiatique, politique et militaire de la part de nombreux pays occidentaux. Cependant, comme toute communication de guerre, elle met surtout en avant les actes de résistance et les réussites ukrainiennes, tandis que certaines difficultés militaires ou pertes importantes sont parfois moins visibles dans les premières semaines du conflit.
+
+ils montrent donc que c'est une guerre et non une opération militaire
+
+== réaction internationale
+Dès le début de la guerre, les autres nations et les médias internationaux jouent également un rôle essentiel dans la diffusion et l’interprétation des informations liées au conflit. Les pays occidentaux, comme les États-Unis, la France, l’Allemagne ou encore les institutions européennes et l’OTAN, adoptent rapidement une communication de condamnation envers la Russie. Contrairement au Kremlin, ces acteurs parlent immédiatement « d’invasion », « d’agression » ou encore de « violation du droit international ». Leur communication repose principalement sur un ton diplomatique et juridique, avec pour objectif de montrer l’unité des pays occidentaux, de soutenir l’Ukraine et de justifier les sanctions économiques prises contre la Russie. Les dirigeants occidentaux multiplient les conférences de presse, les déclarations officielles et les interventions dans les médias afin d’expliquer leur position et de rassurer leurs populations face aux conséquences économiques et sécuritaires du conflit.\n\nLes médias internationaux, quant à eux, jouent un rôle central dans la diffusion des images et des informations provenant du terrain. Des chaînes comme CNN, BBC, France 24 ou encore Reuters publient rapidement des reportages sur les bombardements, les déplacements de populations et les combats autour des grandes villes ukrainiennes. Cependant, contrairement aux réseaux sociaux où l’information circule immédiatement, les médias traditionnels cherchent généralement à vérifier les contenus avant de les diffuser. Les journalistes utilisent des témoignages, des images satellites, la géolocalisation ou encore des vidéos filmées par des civils afin de confirmer l’authenticité des événements. Les médias participent également à la lutte contre la désinformation en publiant des articles de fact-checking lorsque de fausses vidéos ou des images sorties de leur contexte circulent sur internet.\n\nMalgré ce travail de vérification, les médias internationaux ne sont pas totalement neutres dans leur manière de présenter le conflit. De nombreux médias occidentaux adoptent une vision du conflit principalement centrée sur le soutien à l’Ukraine et la condamnation de la Russie. Les choix des images, des témoignages ou des sujets mis en avant influencent donc également la perception du public. Ainsi, dès les premiers jours de la guerre, les gouvernements étrangers, les institutions internationales et les médias contribuent eux aussi à construire un récit du conflit, chacun avec ses propres objectifs, priorités et angles de traitement.
+
+
+
+
+#pagebreak()
+#bibliography("src.bib", style: "apa", title: "Références")
