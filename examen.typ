@@ -7,20 +7,19 @@
 
 #set par(
   justify: true,
-  leading: 1em, // Interligne 1.5 (académique standard)
-  spacing: 1.5em, // Espace entre les paragraphes
-  first-line-indent: 1.2em, // Alinéa de première ligne
+  leading: 0.65em,
+  spacing: 1.5em,
+  first-line-indent: 1.2em,
 )
 
 #set page(
   paper: "a4",
-  margin: (top: 2.5cm, bottom: 2.5cm, left: 3cm, right: 2.5cm),
+  margin: (top: 2.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm),
 )
 
-// ─── Style des citations (APA) ────────────────────────────────────────────────
-#show cite: it => text(fill: rgb("#2c5f8a"), size: 10pt, weight: "regular")[#it]
 
-// ─── Style des titres ─────────────────────────────────────────────────────────
+#show cite: it => text(fill: rgb("#2c5f8a"), size: 12pt, weight: "regular")[#it]
+
 #set heading(numbering: "I.1.")
 
 #show heading.where(level: 1): it => {
@@ -35,82 +34,146 @@
   v(0.3em)
 }
 
-// ─── Page de titre ────────────────────────────────────────────────────────────
-#page(margin: (top: 3cm, bottom: 3cm, left: 3cm, right: 2.5cm))[
+
+#page(
+  margin: (top: 2.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm),
+  numbering: none,
+)[
   #align(center)[
-    #text(size: 11pt, style: "italic")[Examen Information et Communication professionnelle]
-    #v(1em)
-    #line(length: 60%, stroke: 0.5pt)
+
+
+    #text(size: 11pt, weight: "bold")[IFOSUP Wavre]
+    #v(0.3em)
+    #text(size: 11pt, style: "italic")[Année académique 2025–2026]
+
+    #v(1.5em)
+    #line(length: 70%, stroke: 0.5pt)
     #v(3em)
 
-    #text(size: 22pt, weight: "bold")[
-      Conflit en Ukraine: une guerre d'informations autant que militaire
+
+    #text(size: 11pt, style: "italic")[Information et Communication professionnelle]
+    #v(2em)
+
+
+    #text(size: 20pt, weight: "bold")[
+      Conflit en Ukraine : une guerre d'informations autant que militaire
     ]
     #v(0.8em)
-    #text(size: 14pt, style: "italic", fill: rgb("#444444"))[
-      Comment l'information est produite, transformée et instrumentalisée dans le cadre du conflit russo-ukrainien
+
+
+    #text(size: 13pt, style: "italic", fill: rgb("#444444"))[
+      Comment l'information est produite, transformée et instrumentalisée \
+      dans le cadre du conflit russo-ukrainien
     ]
 
-    #v(3em)
-    #line(length: 60%, stroke: 0.5pt)
     #v(4em)
-
-
+    #line(length: 70%, stroke: 0.5pt)
     #v(4em)
 
     #grid(
       columns: (1fr, 1fr),
-      gutter: 1em,
-      align(left)[
-        #text(weight: "bold")[Auteurs] \
-        Coisne Valentin,\
-        Van der Veen Georgé
+      gutter: 2em,
 
+      align()[
+        #text(weight: "bold")[Auteurs] \
+        Coisne Valentin \
+        Van der Veen Georgé \
+        #v(1em)
       ],
-      align(left)[
-        #text(weight: "bold")[Date] \
-        Mai 2026
+      align()[
+        #text(weight: "bold")[Date de remise] \
+        17 mai 2026 \
+        #v(1em)
       ],
     )
   ]
 ]
 
-// ─── Table des matières ───────────────────────────────────────────────────────
+
 #set page(
   numbering: "i",
   number-align: center,
   header: [],
+  margin: (top: 2.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm),
 )
 #counter(page).update(1)
 
 #outline(
-  title: [Table des matières],
+  title: text(size: 13pt, weight: "bold")[Table des matières],
   indent: auto,
   depth: 2,
 )
 #pagebreak()
 
-// ─── Corps du document ────────────────────────────────────────────────────────
+
 #set page(
   numbering: "-1-",
   number-align: center,
+  margin: (top: 2.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm),
   header: context {
     set text(size: 10pt, style: "italic")
     grid(
       columns: (1fr, 1fr),
-      align(left)[Van der Veen Georgé, Coisne Valentin], align(right)[L'information dans la guerre russo-ukrainienne],
+      align(left)[Coisne V. & Van der Veen G.], align(right)[L'information dans la guerre russo-ukrainienne],
     )
     line(length: 100%, stroke: 0.4pt)
   },
 )
 #counter(page).update(1)
 
+#set par(justify: true)
+
+
 = Introduction
-En février 2022, l’Europe a connu une escalade des tensions entre la Russie et l’Ukraine, aboutissant à l’invasion du territoire ukrainien par les forces russes. Bien que la propagande et la désinformation aient toujours occupé une place centrale dans les conflits armés, rarement une guerre d’une telle ampleur aura été autant documentée en temps réel par ses propres acteurs. À travers les réseaux sociaux et les outils numériques, combattants et civils diffusent continuellement images, vidéos et témoignages du front. Cette surabondance d’informations complexifie le travail de vérification des sources, mais offre également de nouvelles possibilités d’analyse pour comprendre les enjeux du conflit et les stratégies de communication des différents acteurs impliqués.
 
---- Nous verons dans ce travail comment l'information est produite par les différents acteurs du conflit, comment elle est transformée et diffusée à travers les médias et les réseaux sociaux, et comment elle est instrumentalisée à des fins de propagande et de manipulation de l'opinion publique.--- #text(red)[) modifier peut-être]
+En février 2022, l'Europe a connu une escalade des tensions entre la Russie et l'Ukraine, aboutissant à l'invasion du territoire ukrainien par les forces russes. Bien que la propagande et la désinformation aient toujours occupé une place centrale dans les conflits armés, rarement une guerre d'une telle ampleur n'aura été aussi documentée en temps réel par ses propres acteurs. À travers les réseaux sociaux et les outils numériques, combattants et civils diffusent continuellement images, vidéos et témoignages du front. Cette surabondance d'informations complexifie le travail de vérification des sources, mais offre également de nouvelles possibilités d'analyse pour comprendre les enjeux du conflit et les stratégies de communication des différents acteurs impliqués.
 
-
+Ce travail examine comment l'information est produite par les différents acteurs du conflit, comment elle est transformée et diffusée à travers les médias traditionnels et les réseaux sociaux, et comment elle est instrumentalisée à des fins de propagande et de manipulation de l'opinion publique. Pour illustrer ces dynamiques, une attention particulière sera portée à la bataille de Bakhmout (mai 2022 – mai 2023), théâtre d'une production de contenus soldatesques sans précédent sur des plateformes telles que Telegram et TikTok.
 
 #pagebreak()
+
+= Présentation du cas
+
+
+= Acteurs impliqués
+
+
+= Supports utilisés
+
+
+= Analyse de cinq sources
+
+
+= Analyse de la communication
+
+
+= Enjeux et risques
+
+
+= Conclusion
+
+#rect(
+  width: 100%,
+  stroke: 0.5pt,
+  inset: 1em,
+  radius: 4pt,
+)[
+  #set par(justify: false)
+  *Contribution personnelle et répartition des tâches* \
+  \
+  *Coisne Valentin :*  \
+  \
+  *Van der Veen Georgé :* \
+  \
+  *Utilisation de l'intelligence artificielle* \
+  Claude — [Usage : Propositions de reformulations, amélioration du fichier Typst pour répondre aux exigences du document] \
+
+]
+
+#pagebreak()
+
+
 #bibliography("src.bib", style: "apa", title: "Références")
+
+
+
