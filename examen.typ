@@ -203,12 +203,14 @@ Le président russe justifie également l’intervention militaire par la volont
 Enfin, Poutine adresse un avertissement aux pays étrangers en déclarant que toute tentative d’intervention contre la Russie entraînera une réponse immédiate et des conséquences importantes.
 #text(red)[refaire pour resumer points imortans peut etre citer]
 
+TOdO source charte nations unis et dombass
 == Analyse de la communication
-On constate clairement que le président russe cherche à polariser les camps, en présentant la Russie comme une entité cherchant le dialogue et qui serait victime d'une menace occidentale. Alors que l'occident serait
+On constate clairement que le président russe cherche à polariser les camps, en présentant la Russie comme une entité cherchant le dialogue et qui serait victime d'une menace occidentale "nous avons patiement essayé de conclure une entente avec les dirigeants de l'OTAN". Du même côté, il présente les politiciens européens comme "irresponsables", en signalant que les seuls retours qu'ils ont fait en réponse à la Russie n'étaient que "mensonges", "cynisme" ou encore des "tentatives de pressions ou de chantage" on constate par la même occasion que Poutine hérige la grandeur de la Russie également visible ultérieurement dans son discours lorqu'il dit "Notre pays n'était pas préparé à contrer l'invasion de l'allemagne nazi, qui attaqué notre mère patrie le 22 juin 1941, sans déclarer la guerre. Le pays a arreté l'ennemi et a été jusqu'à le défaire mais à un coût énorme" cela permet également de déshumaniser les ukrainians.
+Ce n'est pas les seuls tares reprochés, puisque dans la continuité des critiques, il accuse les guerres menées en libye, syrie et iraq. Ces pays auraient été ravagés suite à "l'utilisation illégale de forces armées" ne résultant qu'en une "tragédie [...] qui a amené a une grande éxode du moyen-orient et d'afrique vers l'europe". Tout ceci permet de montrer une urgence pour la sécurité de la russie afin d'éviter l'europe "de nous détruire" à tout moment par surprise. En faisant cet appel à l'hidtoire, il montre qu'il doit donc prévenir l'offensive en prenant l'initiative.
+Nous constatons ensuite ce que d'autres sources qualifient d'inversoin de la réalité ou d'omisions de partie de l'histoire pour adapter son récit quand il déclare dans le cadre condlit dnas le dobnasj que "nous avons tout fait pour régler la situtatuion avec de la diplomatie paisibile", En effet, ces sourcers semblent montrer l'envoi de forces armées sans bannière pour grandir les rangs des séparatistes mais présenté sous cette angle  cela lui permet d'envahir cette région afin de la défendre « Nous devions arrêter cette atrocité, ce génocide visant les millions de personnes qui vivent là-bas et qui avaient placé leurs espoirs en la Russie, en nous tous. ».
+Il invoque enfin l'article 51 (inserer rappel bref) de la Charte des Nations Unies #text(red)[source]
+pour se legitimer encore plus
 
-#text(
-  red,
-)[parle que ukraine essaie de tuer russophones dans le dombask et luthesque alors que plusieurs sources signalent que c'est faux ?? et que russie envoie armée sans bannière pour faire croire à des séparatistes]
 = Enjeux et risques
 
 
