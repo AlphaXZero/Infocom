@@ -180,6 +180,33 @@ Enfin, Poutine invoque l’article 51 de la Charte des Nations Unies @un_charter
 
 Dans l’ensemble, ce discours illustre une stratégie de communication mêlant victimisation, appel à l’histoire, justification morale et légitimation juridique afin de présenter l’intervention militaire comme nécessaire et défensive aux yeux de la population russe et de la communauté internationale.
 
+== Source 2 : Déclarations de V. Zelensky au début de l’invasion russe
+
+
+=== Présentation
+
+Dès le début de l’invasion russe le 24 février 2022, le président ukrainien Volodymyr Zelensky adopte une communication largement fondée sur les réseaux sociaux et les vidéos diffusées en ligne @reuters_zelensky_selfie_2022. Contrairement aux allocutions présidentielles plus traditionnelles, il privilégie des prises de parole filmées directement dans les rues de Kiev, souvent avec un téléphone portable et dans une tenue militaire sobre. Ces vidéos sont rapidement relayées sur Telegram, X, Instagram ou encore par les médias internationaux.
+
+À travers ces interventions, Zelensky cherche à maintenir le moral de la population ukrainienne tout en montrant que les institutions du pays continuent de fonctionner malgré l’invasion.
+
+Dans ses différentes allocutions, le président ukrainien condamne fermement l’offensive russe, qu’il présente comme une attaque contre la souveraineté, la démocratie et l’indépendance de l’Ukraine. Il appelle également les citoyens ukrainiens à résister et insiste sur la nécessité d’une unité nationale face à l’invasion. Il déclare notamment : « Nous défendrons notre pays par tous les moyens possibles ».
+
+Zelensky s’adresse aussi directement aux pays occidentaux et aux organisations internationales afin d’obtenir un soutien militaire, économique et diplomatique accru. Il accuse par ailleurs la Russie de violer le droit international et de s’attaquer aux populations civiles.
+
+=== Analyse de la communication
+
+La communication de Volodymyr Zelensky repose avant tout sur une stratégie de proximité et d’incarnation. Contrairement à des discours institutionnels traditionnels, le président ukrainien privilégie des vidéos tournées directement dans les rues de Kiev, souvent avec un téléphone portable et dans une tenue militaire sobre. Cette mise en scène vise à montrer qu’il partage la situation vécue par la population ukrainienne et qu’il reste présent malgré les dangers. Comme le montre cette célèbre vidéo @reuters_zelensky_here_2022, Volodymyr Zelensky apparaît aux côtés de membres du gouvernement ukrainien dans les rues de Kiev et déclare : « Nous sommes ici. Nous sommes avec vous. Nous resterons ici. »
+
+Zelensky cherche également à mobiliser l’unité nationale ukrainienne. Ses discours utilisent fréquemment les termes « nous », « notre peuple » ou « notre pays » afin de renforcer le sentiment d’appartenance collective. Il présente la résistance ukrainienne comme une lutte pour la survie de la nation, mais également pour la défense des valeurs démocratiques et de la souveraineté du pays. Cette rhétorique vise à maintenir le moral de la population et à encourager la mobilisation face à l’invasion. Il affirme par exemple que « quand vous nous attaquez, vous verrez nos visages, pas nos dos ».
+
+Le président ukrainien adopte aussi une stratégie de communication fortement tournée vers l’international. Une grande partie de ses interventions s’adresse directement aux pays occidentaux, aux institutions européennes et à l’OTAN. Zelensky cherche à susciter l’empathie et le soutien international en mettant en avant les souffrances des civils ukrainiens et les destructions provoquées par les combats. Cette communication émotionnelle permet de renforcer la visibilité médiatique du conflit et de maintenir une pression diplomatique sur les alliés de l’Ukraine. Son image de dirigeant resté à Kiev malgré les risques est notamment relayée par de nombreux médias internationaux @shuster2022zelensky_time.
+
+On observe également une utilisation importante des réseaux sociaux et des formats numériques courts. Les vidéos diffusées sur Telegram, X, Instagram ou TikTok permettent une diffusion rapide des messages ukrainiens à travers le monde. Cette stratégie contribue à construire une image moderne et réactive de la communication ukrainienne, adaptée aux nouveaux usages médiatiques et à la circulation instantanée de l’information.
+
+Enfin, Zelensky cherche à opposer le modèle démocratique ukrainien à l’image autoritaire de la Russie. Il présente régulièrement l’Ukraine comme un pays défendant la liberté, la démocratie et le droit international face à une agression extérieure. Cette opposition permet de renforcer le soutien occidental tout en donnant au conflit une dimension idéologique dépassant le simple cadre territorial.
+
+Dans l’ensemble, la communication de Volodymyr Zelensky repose sur une stratégie mêlant proximité avec la population, mobilisation patriotique, communication émotionnelle et recherche de soutien international afin de renforcer la résistance ukrainienne sur les plans militaire, politique et médiatique.
+
 = Enjeux et risques
 
 
