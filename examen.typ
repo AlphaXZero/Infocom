@@ -63,14 +63,13 @@
 
 
     #text(size: 20pt, weight: "bold")[
-      Conflit en Ukraine : une guerre d'informations autant que militaire
+      La guerre en Ukraine : une bataille de l’information aussi décisive que le front militaire
     ]
     #v(0.8em)
 
 
     #text(size: 13pt, style: "italic", fill: rgb("#444444"))[
-      Comment l'information est produite, transformée et instrumentalisée \
-      dans le cadre du conflit russo-ukrainien
+      Analyse des mécanismes de production, de diffusion et d’instrumentalisation de l’informatio
     ]
 
     #v(4em)
