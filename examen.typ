@@ -161,7 +161,7 @@ Ce résumé s'appuie principalement sur des sources occidentales @beauchemin_pum
 
 == Supports utilisés
 
-#text(style: "italic", fill: rgb("#888888"))[_Cette section est à compléter._]
+Nous utiliserons principalement des discours officiels prononcés par les chefs d'État — Vladimir Poutine, Volodymyr Zelensky, Emmanuel Macron et Joe Biden — ainsi que des vidéos diffusées sur les réseaux sociaux par des civils et des militaires. Ces sources permettent d'explorer à la fois la communication institutionnelle et la production d'information à l'échelle individuelle, offrant ainsi une vision complète des camps de la guerre de l'information dans le contexte du conflit russo-ukrainien.
 
 = Analyse de cinq sources
 == Source 1 : Discours de V. Poutine sur l'intervention militaire en Ukraine
@@ -288,7 +288,6 @@ Du côté de l'instrumentalisation, les sources analysées illustrent la façon 
 
 Face à cette réalité, la capacité à lire l'information de manière critique — identifier la source, comprendre les intentions qui sous-tendent un discours, recouper les versions concurrentes — apparaît comme une compétence civique fondamentale. Le conflit en Ukraine ne se limite pas à une question géopolitique lointaine : il constitue un cas d'école pour quiconque cherche à comprendre comment les récits sont construits, diffusés et reçus dans un environnement médiatique saturé. À l'heure où la frontière entre information et désinformation s'efface de plus en plus rapidement, développer un regard critique sur les sources d'information est peut-être l'un des enjeux démocratiques les plus urgents de notre époque.
 
-#text(style: "italic", fill: rgb("#888888"))[_Cette section est à compléter._]
 
 #rect(
   width: 100%,
