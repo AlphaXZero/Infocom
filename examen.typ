@@ -1,4 +1,6 @@
 // ─── Paramètres globaux ───────────────────────────────────────────────────────
+
+
 #set text(
   font: "Libertinus Serif",
   size: 12pt,
@@ -7,8 +9,8 @@
 
 #set par(
   justify: true,
-  leading: 0.65em,
-  spacing: 1.5em,
+  leading: 1em, // ≈ interligne 1,5
+  spacing: 1.2em,
   first-line-indent: 1.2em,
 )
 
@@ -63,13 +65,13 @@
 
 
     #text(size: 20pt, weight: "bold")[
-      La guerre en Ukraine : une bataille de l’information aussi décisive que le front militaire
+      une bataille de l'information indissociable du front militaire
     ]
     #v(0.8em)
 
 
     #text(size: 13pt, style: "italic", fill: rgb("#444444"))[
-      Analyse des mécanismes de production, de diffusion et d’instrumentalisation de l’informatio
+      Analyse des mécanismes de production, de diffusion et d'instrumentalisation de l'information
     ]
 
     #v(4em)
@@ -138,8 +140,22 @@ Ce travail examinera comment l'information est produite par ces acteurs, comment
 
 
 #pagebreak()
+== Présentation du cas
+
+Le cas étudié dans ce travail concerne la guerre en Ukraine, déclenchée par l'invasion russe du 24 février 2022. Plusieurs caractéristiques rendent ce cas particulièrement intéressant du point de vue informationnel.
+
+D'abord, il s'agit du premier conflit armé d'une telle ampleur à se dérouler dans un environnement où chaque combattant et chaque civil peut devenir, via un smartphone, un producteur d'images et de témoignages diffusés en temps réel. Cette horizontalisation de la production d'information bouleverse les schémas classiques de la communication de guerre, jusqu'ici largement contrôlée par les États-majors et les médias professionnels.
+
+Ensuite, le conflit oppose deux récits radicalement incompatibles, défendus chacun par un appareil de communication structuré : la Russie présente l'invasion comme une « opération militaire spéciale » défensive, tandis que l'Ukraine et ses alliés occidentaux la qualifient d'agression illégale. Cette dualité narrative offre un terrain d'analyse privilégié pour observer comment un même événement peut être cadré, lexicalement orienté et émotionnellement chargé pour produire des perceptions opposées.
+
+Par ailleurs, la guerre en Ukraine constitue un cas d'école pour l'étude de la désinformation contemporaine. Vidéos sorties de leur contexte, fausses interfaces de médias reconnus, deepfakes, images provenant d'autres conflits réutilisées comme images récentes : l'éventail des techniques de manipulation y est particulièrement large et bien documenté par les organismes de vérification.
+
+Enfin, ce cas dépasse largement le cadre d'un conflit régional. Les sanctions économiques, les choix énergétiques européens, les livraisons d'armes occidentales et les positions diplomatiques de chaque État dépendent en partie de la manière dont l'opinion publique mondiale perçoit le conflit. La communication n'est donc pas un accessoire de la guerre : elle conditionne directement les décisions politiques, économiques et militaires des acteurs internationaux. Étudier ce cas, c'est ainsi étudier la communication comme instrument de puissance.
+
+C'est pour ces raisons que la guerre en Ukraine constitue un sujet particulièrement riche pour analyser comment l'information est produite, transformée et communiquée dans un environnement médiatique saturé.
 
 = Présentation du sujet et du contexte
+
 == Acteurs impliqués
 
 Le conflit russo-ukrainien implique d'abord deux acteurs principaux sur le plan militaire et politique : la Fédération de Russie et l'Ukraine. Du côté russe, le pouvoir exécutif, l'armée et les médias d'État participent à la construction d'un discours justifiant l'invasion par des arguments de sécurité, de protection des populations russophones et de lutte contre l'influence occidentale. Du côté ukrainien, le président Volodymyr Zelensky, les autorités politiques et les forces armées cherchent au contraire à présenter la guerre comme une agression contre la souveraineté nationale, tout en mobilisant la population autour de la résistance et de l'unité du pays.
@@ -183,13 +199,11 @@ Poutine mobilise également la mémoire historique pour renforcer l'adhésion pa
 
 Dans la continuité de sa critique de l'Occident, Poutine évoque les guerres menées en Libye, en Syrie et en Irak, qu'il qualifie d'« utilisation illégale de forces armées » n'ayant conduit qu'à des « tragédies ». Cette comparaison positionne la Russie comme moralement plus légitime que les puissances occidentales et ancre le discours dans une logique de guerre préventive : la Russie serait contrainte d'agir avant de subir elle-même une déstabilisation.
 
-On observe également ce que plusieurs observateurs qualifient d'inversion du récit. Poutine affirme avoir « tout fait pour régler la situation par des moyens pacifiques », alors que des sources occidentales et des enquêtes indépendantes @Katchanovski2026 font état de l'implication de forces russes dans le Donbass depuis 2014. Cette version des événements permet de présenter l'intervention comme une opération de protection des populations locales : « Nous devions arrêter ce génocide visant les millions de personnes qui avaient placé leurs espoirs en la Russie. »
+Nous observons également ce que plusieurs observateurs qualifient d'inversion du récit. Poutine affirme avoir « tout fait pour régler la situation par des moyens pacifiques », alors que des sources occidentales et des enquêtes indépendantes @Katchanovski2026 font état de l'implication de forces russes dans le Donbass depuis 2014. Cette version des événements permet de présenter l'intervention comme une opération de protection des populations locales : « Nous devions arrêter ce génocide visant les millions de personnes qui avaient placé leurs espoirs en la Russie. »
 
 Enfin, la référence à l'article 51 de la Charte des Nations Unies @un_charter_1945, qui reconnaît le droit à la légitime défense, vise à conférer une justification juridique à l'opération. Au total, ce discours articule victimisation, mobilisation de la mémoire collective, justification morale et légitimation juridique pour présenter l'intervention comme nécessaire et défensive, aussi bien aux yeux de l'opinion russe que de la communauté internationale.
 
 == Source 2 : Déclarations de V. Zelensky au début de l'invasion russe
-
-
 === Présentation
 
 Dès le début de l'invasion russe le 24 février 2022, le président ukrainien Volodymyr Zelensky adopte une communication fondée sur les réseaux sociaux et les vidéos diffusées en ligne @reuters_zelensky_selfie_2022. Contrairement aux allocutions présidentielles traditionnelles, il s'exprime depuis les rues de Kiev, en tenue militaire sobre et souvent avec un simple téléphone portable. Ces vidéos sont rapidement relayées sur Telegram, X, Instagram et par les médias internationaux.
@@ -200,29 +214,35 @@ Dès le début de l'invasion russe le 24 février 2022, le président ukrainien 
 
 La communication de Volodymyr Zelensky repose avant tout sur une stratégie de proximité et d'incarnation. En choisissant de s'exprimer dans la rue plutôt que depuis un palais, dans une tenue sobre plutôt qu'un costume présidentiel, il signale qu'il partage la situation vécue par la population et qu'il reste présent malgré les dangers. Cette mise en scène culmine dans la désormais célèbre vidéo @reuters_zelensky_here_2022 où il apparaît aux côtés de membres du gouvernement dans les rues de Kiev et déclare : « Nous sommes ici. Nous sommes avec vous. Nous resterons ici. »
 
-Ses discours s'appuient ensuite sur un usage systématique du « nous » — « nous », « notre peuple », « notre pays » — pour renforcer le sentiment d'appartenance collective. La résistance ukrainienne est présentée comme une lutte pour la survie nationale, mais aussi pour la défense de valeurs démocratiques universelles, ce qui permet d'articuler mobilisation intérieure et appel au soutien international.
+Cette apparente spontanéité relève toutefois elle aussi d'une construction. Le t-shirt kaki, devenu signature visuelle du président ukrainien dans toutes ses apparitions publiques et internationales, fonctionne comme un véritable uniforme symbolique et rappelle en permanence l'état de guerre à l'image, ce qui interdit toute lecture « normale » de la vie politique ukrainienne. La forme de communication adopté (selfie filmé avec le téléphone portable) est en réalité un format soigneusement choisi, qui exploite les codes esthétiques des réseaux sociaux pour produire un effet de vérité que les communications institutionnelles classiques ne peuvent atteindre.
 
-Car la communication de Zelensky est également très orientée vers l'extérieur. Une grande partie de ses interventions s'adresse directement aux institutions européennes, aux gouvernements alliés et à l'OTAN. En mettant en avant les souffrances des civils et les destructions causées par les bombardements, il entretient une pression diplomatique constante sur ses alliés. Cette dimension internationale est amplifiée par les médias du monde entier, qui reprennent largement l'image d'un chef d'État resté à Kiev malgré les risques @shuster2022zelensky_time.
+Ses discours s'appuient ensuite sur un usage systématique du « nous », « notre pays », « notre peuple » pour renforcer le sentiment d'appartenance collective. La résistance ukrainienne est présentée comme une lutte pour la survie nationale, mais aussi pour la défense de valeurs démocratiques universelles, ce qui permet d'articuler mobilisation intérieure et appel au soutien international. Ce cadrage idéologique a un effet rhétorique précis : en élevant le conflit au rang d'affrontement entre démocratie et autoritarisme, il déplace la question du terrain territorial vers un registre moral où le refus d'aider l'Ukraine devient difficilement défendable pour les puissances occidentales.
 
-Sur le plan des formats, l'utilisation de vidéos courtes adaptées aux réseaux sociaux — Telegram, X, Instagram, TikTok — permet une diffusion rapide et une portée mondiale, à contre-courant des standards institutionnels. Cette agilité numérique contribue à forger une image de leadership moderne et réactif, en phase avec les usages médiatiques contemporains.
+Car la communication de Zelensky est aussi très orientée vers l'extérieur. Une grande partie de ses interventions s'adresse directement aux institutions européennes, aux gouvernements alliés et à l'OTAN. En mettant en avant les souffrances des civils et les destructions causées par les bombardements, il entretient une pression diplomatique constante sur ses alliés. Cette stratégie est délibérément émotionnelle : la sélection des images, des chiffres et des récits diffusés vise à maintenir le conflit en tête de l'agenda international et à rendre politiquement coûteux tout ralentissement du soutien militaire ou financier. Les interventions devant les parlements étrangers — chacune adaptée à l'histoire et aux références du pays d'accueil — relèvent d'une diplomatie de l'émotion finement calibrée.
 
-Enfin, Zelensky construit en permanence une opposition entre le modèle démocratique ukrainien et la nature autoritaire du régime russe, offrant au conflit une lecture idéologique qui dépasse le cadre territorial et facilite l'adhésion des opinions publiques occidentales.
+Comme dans toute communication de guerre, cette mise en récit suppose aussi une part de sélection. Les difficultés internes — tensions politiques, mobilisation forcée, suspension de partis d'opposition, situations sur certaines portions du front — sont peu, voire pas, abordées dans la communication présidentielle, ce qui est cohérent avec un effort de guerre mais constitue néanmoins un cadrage dont il faut tenir compte dans l'analyse.
+De la même manière, opposer une démocratie ukrainienne à une autocratie russe revient à présenter chaque camp comme un bloc homogène, en effaçant ses tensions internes. C'est exactement le procédé que Poutine emploie lorsqu'il dépeint une Russie unifiée face à un Occident monolithique.
+
+Sur le plan des formats, l'utilisation de vidéos courtes adaptées aux réseaux sociaux — Telegram, X, Instagram, TikTok — permet une diffusion rapide et une portée mondiale, à contre-courant des standards institutionnels. Cette agilité numérique contribue à forger une image de leadership moderne et réactif, en phase avec les usages médiatiques contemporains, et illustre parfaitement comment un chef d'État peut transformer les codes de la communication horizontale en instrument vertical de mobilisation.
 
 == Source 3 : Adresse aux Français d'Emmanuel Macron sur le conflit en Ukraine
 === Présentation
 Le 24 février 2022, le président français Emmanuel Macron prononce une allocution @macron2022ukraine dans laquelle il condamne l'invasion de l'Ukraine par la Russie. Il exprime son soutien au peuple ukrainien et annonce qu'une réponse coordonnée sera décidée dans les heures suivantes au G7, au Conseil européen et à l'OTAN, en évoquant des sanctions proportionnées à la gravité de l'agression. Macron insiste sur les principes de souveraineté et d'intégrité territoriale, assure que la France continuera à soutenir l'Ukraine sur le plan humanitaire et militaire, et justifie rétrospectivement les efforts diplomatiques antérieurs, notamment sa rencontre du 7 février 2022 à Moscou.
 
+
 === Analyse de la communication
 
 Le discours de Macron répond à plusieurs objectifs distincts. Le premier est de rassurer la population française : le verbe « protéger » revient à plusieurs reprises, soulignant l'engagement de la France envers ses ressortissants présents en Ukraine comme envers les citoyens sur le territoire national.
 
-Un objectif de leadership européen se dessine également. L'Europe est mentionnée à trois reprises dans l'allocution — ce qui s'explique par le fait que la France assure la présidence du Conseil de l'Union européenne depuis janvier 2022. Macron s'exprime donc à la fois en tant que chef d'État français et au nom du continent, cherchant à montrer que la France est à la tête de la réponse européenne face à l'agression.
+Un objectif de leadership européen se dessine également. L'Europe est mentionnée à trois reprises dans l'allocution — ce qui s'explique par le fait que la France assure la présidence du Conseil de l'Union européenne depuis janvier 2022. Macron s'exprime donc à la fois en tant que chef d'État français et au nom du continent, cherchant à montrer que la France est à la tête de la réponse européenne face à l'agression. Ce positionnement n'est pas neutre et sert aussi à inscrire la France, et son président, au centre d'un récit européen dont la mise en scène — notamment la rencontre Macron-Poutine au Kremlin du 7 février, devenue iconique par l'image de la « grande table » — a précédé l'invasion. Le discours du 24 février est ainsi à la fois une réaction à l'événement et la conclusion d'une séquence diplomatique soigneusement médiatisée.
 
-Une dimension électorale se laisse enfin deviner. Le conflit éclate quelques mois avant l'élection présidentielle française ; bien que sa candidature ne soit pas encore officiellement déclarée, cette prise de parole permet à Macron de se positionner en défenseur de la paix et de la souveraineté, ce qui constitue un argument de poids auprès des électeurs.
+Une dimension électorale se laisse enfin deviner. Le conflit éclate quelques mois avant l'élection présidentielle française ; bien que sa candidature ne soit pas encore officiellement déclarée, cette prise de parole permet à Macron de se positionner en défenseur de la paix et de la souveraineté, ce qui constitue un argument de poids auprès des électeurs. Le statut présidentiel offre ici un avantage de communication considérable : Macron parle depuis l'Élysée, dans un cadre solennel inaccessible à ses concurrents, et ses prises de parole sur l'Ukraine fonctionnent objectivement comme un capital politique national, même sans intention électoraliste explicite.
 
-Le ton du discours est solennel et maîtrisé. L'évocation d'un « tournant dans l'histoire de l'Europe » souligne la gravité du moment sans verser dans la dramatisation, et la fermeté de la condamnation coexiste avec une absence totale d'invective personnelle — ce qui distingue nettement le registre de Macron de celui de Biden ou de Poutine.
+Le ton du discours est solennel et maîtrisé. L'évocation d'un « tournant dans l'histoire de l'Europe » souligne la gravité du moment sans verser dans la dramatisation, et la fermeté de la condamnation coexiste avec une absence totale d'invective personnelle — ce qui distingue nettement le registre de Macron de celui de Biden ou de Poutine. Cette retenue produit toutefois un effet rhétorique propre : en personnalisant moins la responsabilité que Biden, Macron préserve des marges de manœuvre diplomatique et maintient ouverte la possibilité d'un dialogue futur avec Moscou — ce qui correspond exactement à la position que défendra la diplomatie française dans les mois suivants.
 
-Le choix des mots n'est pas anodin. Le mot « guerre » désigne systématiquement l'action russe, mais n'est jamais employé pour qualifier les mesures que la France entend prendre en soutien à l'Ukraine. Cette précaution lexicale évite à la fois de susciter la peur dans l'opinion française et de déclencher toute assimilation à une déclaration de guerre. L'expression « les fantômes du passé » mérite également attention : en convoquant implicitement la Seconde Guerre mondiale et la guerre froide, elle mobilise une émotion collective européenne reconnaissable sans nommer aucun événement précis, ce qui permet de maintenir un ton rassurant tout en signifiant la gravité de la situation.
+Le choix des mots n'est pas anodin. Le mot « guerre » désigne systématiquement l'action russe, mais n'est jamais employé pour qualifier les mesures que la France entend prendre en soutien à l'Ukraine. Cette précaution lexicale évite à la fois de susciter la peur dans l'opinion française et de déclencher toute assimilation à une déclaration de guerre. Elle reflète aussi un cadrage politique délibéré : en présentant la réponse française comme une opération de soutien et de sanctions, et non comme une participation à un conflit, le discours construit pour l'opinion publique un seuil mental entre « aider l'Ukraine » et « être en guerre avec la Russie » — distinction stratégiquement nécessaire mais qui mérite, en analyse, d'être identifiée comme une construction et non comme une évidence.
+
+L'expression « les fantômes du passé » mérite également attention : en convoquant implicitement la Seconde Guerre mondiale et la guerre froide, elle mobilise une émotion collective européenne reconnaissable sans nommer aucun événement précis. Ce flou est précisément ce qui en fait l'efficacité : la formule active des références historiques chargées tout en laissant à chaque auditeur le soin de les remplir, ce qui permet au discours de signaler la gravité de la situation sans s'engager sur une comparaison historique qui serait politiquement coûteuse à assumer explicitement. C'est, en miniature, un procédé de cadrage par allusion comparable — dans sa mécanique, non dans sa charge — à celui que Poutine emploie avec ses références à la Grande Guerre patriotique, à ceci près que Macron en module l'intensité et n'identifie aucun ennemi désigné.
 
 == Source 4 : Discours de Joseph Biden sur l'invasion russe de l'Ukraine
 === Présentation
@@ -259,7 +279,7 @@ Les vidéos diffusées sur les réseaux sociaux jouent avant tout un rôle émot
 
 Le ton de ces contenus est généralement plus spontané que celui des médias institutionnels. Les civils filmant leur quotidien dans les abris ou les soldats enregistrant des vidéos depuis le front créent une impression d'authenticité et de proximité qui renforce leur crédibilité aux yeux des internautes, même lorsque les informations ne sont pas vérifiées.
 
-Ces vidéos servent également d'outil de propagande et de mobilisation. Du côté ukrainien, de nombreuses publications mettent en avant la résistance nationale, le courage des soldats ou les destructions causées par l'armée russe afin de maintenir le moral de la population et consolider le soutien international. Des contenus prorusses cherchent quant à eux à justifier l'intervention ou à discréditer l'Ukraine et les pays occidentaux. Dans les deux cas, on observe une sélection biaisée des images : les souffrances de son propre camp sont largement amplifiées, tandis que les violences commises par celui-ci sont minimisées ou absentes. Chaque camp construit ainsi un récit où il se présente comme victime ou défenseur.
+Ces vidéos servent également d'outil de propagande et de mobilisation. Du côté ukrainien, de nombreuses publications mettent en avant la résistance nationale, le courage des soldats ou les destructions causées par l'armée russe afin de maintenir le moral de la population et consolider le soutien international. Des contenus prorusses cherchent quant à eux à justifier l'intervention ou à discréditer l'Ukraine et les pays occidentaux. Dans les deux cas, nous observons une sélection biaisée des images : les souffrances de son propre camp sont largement amplifiées, tandis que les violences commises par celui-ci sont minimisées ou absentes. Chaque camp construit ainsi un récit où il se présente comme victime ou défenseur.
 
 Les réseaux sociaux favorisent par ailleurs une circulation rapide de fausses informations. Plusieurs enquêtes journalistiques ont mis au jour la diffusion de vidéos imitant les habillages visuels de médias reconnus — BBC ou CNN — pour donner une apparence crédible à des contenus trompeurs @poynter_fake_bbc_2022. Des séquences sorties de leur contexte ou provenant d'autres conflits ont également été réutilisées comme s'il s'agissait d'images récentes de la guerre en Ukraine @axios_misinformation_2022.
 
@@ -277,15 +297,14 @@ Le conflit en Ukraine illustre ainsi que l'information est devenue une arme stra
 
 = Conclusion
 
-L'analyse des cinq sources étudiées confirme que le conflit russo-ukrainien constitue une guerre de l'information à part entière, menée simultanément et avec une intensité comparable à celle des opérations militaires sur le terrain.
+L'analyse des cinq sources étudiées confirme que le conflit russo-ukrainien constitue une guerre de l'information à part entière, menée simultanément aux opérations militaires sur le terrain. Chaque source examinée éclaire un aspect distinct de cette bataille.
 
-Du côté de la production, les sources examinées mettent en évidence la diversité des acteurs impliqués. Les discours de Poutine, Zelensky, Macron et Biden montrent que les chefs d'État sont devenus des communicants stratégiques, dont chaque prise de parole est construite autour d'objectifs précis : légitimer une action, mobiliser une coalition, rassurer une opinion nationale ou dissuader un adversaire. Ces discours ne sont pas de simples réactions à l'actualité ; ils sont des actes politiques calculés, dont le lexique, le ton et la mise en scène sont aussi délibérément choisis que les sanctions ou les livraisons d'armes. Parallèlement, les civils et les soldats sont devenus producteurs d'information à grande échelle, transformant les réseaux sociaux en un front supplémentaire du conflit.
+Le discours de Poutine illustre l'articulation entre victimisation, mobilisation de la mémoire historique et légitimation juridique pour transformer une invasion en opération défensive. Celui de Zelensky montre, à l'inverse, comment un format apparemment spontané — le selfie filmé au téléphone, le t-shirt kaki, l'usage du « nous » — peut être finement calibré pour incarner une résistance nationale et maintenir une pression diplomatique constante sur les alliés. Macron, lui, mobilise la solennité présidentielle et un cadrage lexical prudent pour rassurer l'opinion française tout en préservant les marges de manœuvre diplomatique de la France. Biden, enfin, construit son allocution comme un acte d'accusation appuyé sur la preuve, restaurant la crédibilité du renseignement américain et fixant des lignes rouges destinées à borner le conflit. À ces communications institutionnelles s'ajoute, avec la cinquième source, la prise de parole massive des civils et des soldats sur les réseaux sociaux : une production d'information décentralisée qui transforme chaque smartphone en outil de témoignage, de mobilisation, mais aussi de désinformation.
 
-Du côté de la transformation, l'information change de forme et de sens à mesure qu'elle circule. Un même événement peut être présenté comme un acte défensif ou comme une agression selon l'angle adopté ; une vidéo filmée dans un contexte donné peut être réutilisée dans un tout autre récit. Cette plasticité de l'information est exploitée de manière délibérée par les deux camps, mais elle est aussi le produit mécanique de la vitesse de circulation propre aux réseaux sociaux, qui favorise la diffusion avant la vérification.
 
-Du côté de l'instrumentalisation, les sources analysées illustrent la façon dont l'information est mobilisée pour atteindre des objectifs bien au-delà de la simple transmission de faits. Elle sert à construire une image, à déshumaniser l'adversaire, à entretenir la solidarité nationale, à maintenir une pression diplomatique ou à conditionner l'opinion publique internationale en vue d'un soutien militaire ou financier. En ce sens, la maîtrise de l'information est devenue une ressource de puissance au même titre que l'armement ou la diplomatie.
+Mises côte à côte, ces sources révèlent plusieurs traits communs malgré leurs orientations opposées. Toutes reposent sur des choix de cadrage délibérés — qui parle, depuis où, dans quelle tenue, avec quel lexique — et toutes opèrent une sélection de ce qui est dit et de ce qui est tu. Toutes cherchent enfin à dépasser leur audience immédiate pour peser sur un public international dont l'opinion conditionne le soutien militaire, économique ou diplomatique. Cette observation confirme que les chefs d'État ne sont pas seulement des décideurs politiques mais aussi des communicants stratégiques, dont chaque prise de parole est un acte aussi calculé que les sanctions ou les livraisons d'armes.
 
-Face à cette réalité, la capacité à lire l'information de manière critique — identifier la source, comprendre les intentions qui sous-tendent un discours, recouper les versions concurrentes — apparaît comme une compétence civique fondamentale. Le conflit en Ukraine ne se limite pas à une question géopolitique lointaine : il constitue un cas d'école pour quiconque cherche à comprendre comment les récits sont construits, diffusés et reçus dans un environnement médiatique saturé. À l'heure où la frontière entre information et désinformation s'efface de plus en plus rapidement, développer un regard critique sur les sources d'information est peut-être l'un des enjeux démocratiques les plus urgents de notre époque.
+Le travail mené sur ces cinq sources permet ainsi de mieux comprendre comment les récits du conflit sont construits, et de saisir que les divergences entre les versions russe, ukrainienne et occidentales ne relèvent pas seulement de différences factuelles, mais aussi de logiques de communication dont la maîtrise est devenue un instrument de puissance à part entière.
 
 
 #rect(
