@@ -188,7 +188,7 @@ Poutine affirme que les États-Unis et leurs alliés ont ignoré, durant plusieu
 Le président russe justifie l'intervention militaire par la volonté de protéger les habitants des républiques séparatistes, qu'il affirme victimes de violences depuis 2014. Il déclare que les objectifs de l'opération sont de « démilitariser » et de « dénazifier » l'Ukraine, tout en assurant que la Russie ne cherche pas à occuper le territoire ukrainien.
 
 Enfin, Poutine adresse un avertissement aux pays étrangers : toute tentative d'intervention contre la Russie entraînera, selon lui, une réponse immédiate et de lourdes conséquences.
-
+#pagebreak()
 === Analyse de la communication
 
 Le discours de Poutine repose d'abord sur une logique de polarisation. La Russie y est présentée comme une nation ouverte au dialogue mais victime d'une menace extérieure : « nous avons patiemment essayé de conclure une entente avec les dirigeants de l'OTAN ». À l'inverse, les dirigeants occidentaux sont qualifiés d'« irresponsables », et leurs réponses sont décrites comme des « mensonges », du « cynisme » ou des « tentatives de chantage ». Cette opposition construit un récit dans lequel une Russie défensive fait face à un Occident agressif.
@@ -200,7 +200,7 @@ Dans la continuité de sa critique de l'Occident, Poutine évoque les guerres me
 Nous observons également ce que certains observateurs qualifient d'inversion du récit. Poutine affirme avoir « tout fait pour régler la situation par des moyens pacifiques », alors que des sources occidentales et des enquêtes indépendantes @Katchanovski2026 font état de l'implication de forces russes dans le Donbass depuis 2014. Cette version des événements permet de présenter l'intervention comme une opération de protection des populations locales : « Nous devions arrêter ce génocide visant les millions de personnes qui avaient placé leurs espoirs en la Russie. »
 
 Enfin, la référence à l'article 51 de la Charte des Nations Unies @un_charter_1945, qui reconnaît le droit à la légitime défense, vise à donner une justification juridique à l'opération. Au total, ce discours articule victimisation, mobilisation de la mémoire collective, justification morale et légitimation juridique pour présenter l'intervention comme nécessaire et défensive, aussi bien aux yeux de l'opinion russe que de la communauté internationale.
-
+#pagebreak()
 == Source 2 : Déclarations de V. Zelensky au début de l'invasion russe
 === Présentation
 
@@ -221,7 +221,7 @@ La communication de Zelensky est aussi très orientée vers l'extérieur. Une gr
 Comme dans toute communication de guerre, cette mise en récit suppose aussi une part de sélection. Les difficultés internes (tensions politiques, mobilisation forcée, suspension de partis d'opposition, situations sur certaines portions du front) sont peu, voire pas, abordées dans la communication présidentielle. Cela est cohérent avec un effort de guerre, mais constitue néanmoins un cadrage dont il faut tenir compte dans l'analyse. De la même manière, opposer une démocratie ukrainienne à une autocratie russe revient à présenter chaque camp comme un bloc homogène, et à effacer ses tensions internes. C'est exactement le procédé que Poutine emploie lorsqu'il dépeint une Russie unifiée face à un Occident monolithique.
 
 Sur le plan des formats, l'utilisation de vidéos courtes adaptées aux réseaux sociaux (Telegram, X, Instagram, TikTok) permet une diffusion rapide et une portée mondiale, à contre-courant des standards institutionnels. Cette agilité numérique contribue à forger une image de leadership moderne et réactif, en phase avec les usages médiatiques contemporains. Elle illustre aussi comment un chef d'État peut transformer les codes de la communication horizontale en instrument vertical de mobilisation.
-
+#pagebreak()
 == Source 3 : Adresse aux Français d'Emmanuel Macron sur le conflit en Ukraine
 === Présentation
 Le 24 février 2022, le président français Emmanuel Macron prononce une allocution @macron2022ukraine dans laquelle il condamne l'invasion de l'Ukraine par la Russie. Il exprime son soutien au peuple ukrainien et annonce qu'une réponse coordonnée sera décidée dans les heures suivantes au G7, au Conseil européen et à l'OTAN, en évoquant des sanctions proportionnées à la gravité de l'agression. Macron insiste sur les principes de souveraineté et d'intégrité territoriale, assure que la France continuera à soutenir l'Ukraine sur le plan humanitaire et militaire, et justifie rétrospectivement les efforts diplomatiques antérieurs, notamment sa rencontre du 7 février 2022 à Moscou.
