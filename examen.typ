@@ -65,13 +65,13 @@
 
 
     #text(size: 20pt, weight: "bold")[
-      une bataille de l'information indissociable du front militaire
+      L'invasion russe de l'Ukraine au prisme\ des discours.
     ]
     #v(0.8em)
 
 
     #text(size: 13pt, style: "italic", fill: rgb("#444444"))[
-      Analyse des mécanismes de production, de diffusion et d'instrumentalisation de l'information
+      Analyse comparée des prises de parole du 24 février 2022
     ]
 
     #v(4em)
@@ -147,8 +147,6 @@ Le cas étudié dans ce travail concerne la guerre en Ukraine, déclenchée par 
 D'abord, il s'agit du premier conflit armé d'une telle ampleur à se dérouler dans un environnement où chaque combattant et chaque civil peut devenir, via un smartphone, un producteur d'images et de témoignages diffusés en temps réel. Cette horizontalisation de la production d'information bouleverse les schémas classiques de la communication de guerre, jusqu'ici largement contrôlée par les États-majors et les médias professionnels.
 
 Ensuite, le conflit oppose deux récits radicalement incompatibles, défendus chacun par un appareil de communication structuré : la Russie présente l'invasion comme une « opération militaire spéciale » défensive, tandis que l'Ukraine et ses alliés occidentaux la qualifient d'agression illégale. Cette dualité narrative offre un terrain d'analyse privilégié pour observer comment un même événement peut être cadré, lexicalement orienté et émotionnellement chargé pour produire des perceptions opposées.
-
-Par ailleurs, la guerre en Ukraine constitue un cas d'école pour l'étude de la désinformation contemporaine. Vidéos sorties de leur contexte, fausses interfaces de médias reconnus, deepfakes, images provenant d'autres conflits réutilisées comme images récentes : l'éventail des techniques de manipulation y est particulièrement large et bien documenté par les organismes de vérification.
 
 Enfin, ce cas dépasse largement le cadre d'un conflit régional. Les sanctions économiques, les choix énergétiques européens, les livraisons d'armes occidentales et les positions diplomatiques de chaque État dépendent en partie de la manière dont l'opinion publique mondiale perçoit le conflit. La communication n'est donc pas un accessoire de la guerre : elle conditionne directement les décisions politiques, économiques et militaires des acteurs internationaux. Étudier ce cas, c'est ainsi étudier la communication comme instrument de puissance.
 
@@ -295,7 +293,6 @@ Un autre risque majeur tient à la désinformation. Les vidéos sorties de leur 
 
 Le conflit en Ukraine illustre ainsi que l'information est devenue une arme stratégique à part entière : elle ne sert plus seulement à informer, mais aussi à convaincre, mobiliser, influencer et parfois manipuler. Savoir distinguer les faits des récits construits représente dès lors un enjeu essentiel, non seulement pour comprendre la guerre, mais pour en saisir toutes les répercussions.
 
-= Conclusion
 
 = Conclusion
 
